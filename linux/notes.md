@@ -55,7 +55,21 @@ git push
 GitHub
 
 
+## Processes 
 
+A process is a running instance of a program.
+
+Every running process has a unique Process ID (PID).
+
+ps - show processes associated with the current terminal
+ps aux - show detailed information about running processes
+sleep 60 & - run sleep as a background process
+
+Important process concepts:
+PID - unique process identifier
+CPU - processor usage
+MEM - memory usage
+root - Linux superuser
 
 
  
